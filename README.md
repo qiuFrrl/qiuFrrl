@@ -118,6 +118,10 @@ Small experiments, unfinished prototypes, ideas, and engineering explorations.
 
 <img src="https://streak-stats.demolab.com?user=qiuFrrl&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" />
 
+<br>
+
+<img src="https://raw.githubusercontent.com/qiuFrrl/qiuFrrl/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+
 </div>
 
 ---

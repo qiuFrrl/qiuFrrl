@@ -110,13 +110,13 @@ Small experiments, unfinished prototypes, ideas, and engineering explorations.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qiuFrrl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=qiuFrrl&show_icons=true&v=2&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuFrrl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qiuFrrl&layout=compact&v=2&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="41%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=qiuFrrl&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" />
+<img src="https://streak-stats.demolab.com?user=qiuFrrl&theme=dark&hide_border=true&v=2&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" />
 
 <br>
 
